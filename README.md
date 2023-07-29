@@ -1,6 +1,6 @@
 # Creative Calculator 🎨🧮
 
-![Creative Calculator Preview](Screenshot 2023-07-29 134933.png)
+![Creative Calculator Preview](https://github.com/Ajinkya2217/Calculator/blob/main/Screenshot%202023-07-29%20134933.png))
 
 Welcome to Creative Calculator, a fun and colorful calculator built with HTML, CSS, and JavaScript! This calculator is designed to provide a delightful user experience while performing basic arithmetic operations.
 
